@@ -1,0 +1,23 @@
+name: Hindsfeetpress
+favicon: null
+layout_spectrum: 0.5212387715000659
+typography_spectrum: 0.05747144855558872
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9171621631830931
+  lightness: 0.8343114550225437
+  saturation: 0.7816576382610947
+  rhythmicContrast: 0.7465208459179848
+purpose: []
